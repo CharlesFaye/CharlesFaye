@@ -3,7 +3,7 @@
 - and that's why I still looking for how I can upgrade my skills.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project which can help me to improve my skills and my experience on programming
-- 📫 You can reach me on my email address : charlesfaye99@gmail.com and also in my X account Charles Faye (@Bebouzo)
+- 📫 You can reach me on my email address : charlesfaye99@gmail.com and also in my X account : https://twitter.com/Bebouzo
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Passionate of Sports globally. I like to engage in sports activities in my free time. I also like watching Football or even practising it
 - Moreover I like reading books and like I say above learning new things about technology.
