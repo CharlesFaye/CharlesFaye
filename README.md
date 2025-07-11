@@ -25,7 +25,7 @@
 
 - 🔥 [**Djay Sunu Mbay**](https://github.com/CharlesFaye/djay-sunu-mbay) – Android app to connect local farmers with buyers  
 - ✨ Mini projects:  
-  - [To-Do List](https://github.com/CharlesFaye/todo-list-app) with filters and localStorage  
+  - [To-Do List](https://github.com/CharlesFaye/advanced-todo-list-app) with filters and localStorage  
   - [Password Generator](https://github.com/CharlesFaye/password-generator)  
   - [Weather App](https://github.com/CharlesFaye/weather-app) using OpenWeatherMap API  
   - [Infinite Scroll](https://github.com/CharlesFaye/infinite-scroll-app)
