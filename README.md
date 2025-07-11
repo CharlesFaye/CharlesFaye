@@ -56,7 +56,7 @@
 </p>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CharlesFaye&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesFaye&layout=compact)
 
 
 
