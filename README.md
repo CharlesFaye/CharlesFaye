@@ -60,10 +60,14 @@
     srcset="https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesFaye" />
+</a>
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesFaye&langs_count=8&layout=pie)](https://github.com/CharlesFaye/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesFaye&layout=pie&langs_count=8&card_width=320" />
+</a>
 
 [![Charles Faye's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bebouzo)](https://github.com/CharlesFaye/github-readme-stats)
 
