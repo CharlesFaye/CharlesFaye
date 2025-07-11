@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=default" alt="Charles's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=radical" alt="Charles's GitHub Stats" />
 </p>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CharlesFaye&theme=dark)
 
