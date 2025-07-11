@@ -63,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesFaye&langs_count=8&&layout=donut-vertical)](https://github.com/CharlesFaye/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesFaye&langs_count=8&layout=pie)](https://github.com/CharlesFaye/github-readme-stats)
 
 
 
