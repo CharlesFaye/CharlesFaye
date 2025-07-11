@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats
 
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=dark)
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=highcontrast)
 
 
 
