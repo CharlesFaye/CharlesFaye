@@ -27,8 +27,8 @@
 - ✨ Mini projects:  
   - [To-Do List](https://github.com/CharlesFaye/advanced-todo-list-app) with filters and localStorage  
   - [Password Generator](https://github.com/CharlesFaye/password-generator)  
-  - [Weather App](https://github.com/CharlesFaye/weather-app) using OpenWeatherMap API  
-  - [Infinite Scroll](https://github.com/CharlesFaye/infinite-scroll-app)
+  - [Weather App](https://github.com/CharlesFaye/weather-project) using OpenWeatherMap API  
+  - [Calendar App](https://github.com/CharlesFaye/calendar-app)
 
 ---
 
