@@ -69,9 +69,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesFaye&layout=pie&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/CharlesFaye/convoychat">
   [![Charles Faye's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bebouzo)](https://github.com/CharlesFaye/github-readme-stats)
-</a>
+
 
 
 
