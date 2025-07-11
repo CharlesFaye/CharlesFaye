@@ -51,7 +51,7 @@
 
 ## 📊 GitHub Stats
 
-![Les Stats GitHub de Charles Faye](https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=transparent)
+![Les Stats GitHub de Charles Faye](https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=default#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesFaye)](https://github.com/CharlesFaye/github-readme-stats)
 
