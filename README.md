@@ -16,7 +16,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,androidstudio,git,github,vscode,npm,vite" alt="My Tech Stack" width="150" height="150" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,androidstudio,git,github,vscode,npm,vite" alt="My Tech Stack" width="500" height="500" />
 </p>
 
 ---
