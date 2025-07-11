@@ -51,12 +51,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=radical" alt="Charles's GitHub Stats" />
-</p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CharlesFaye&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesFaye&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesFaye&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesFaye&repo=convoychat" />
+</a>
 
 
 
