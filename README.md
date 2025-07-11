@@ -51,13 +51,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/CharlesFaye/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesFaye&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/CharlesFaye/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CharlesFaye&repo=convoychat" />
-</a>
-
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=dark)
 
 
 
