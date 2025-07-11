@@ -65,7 +65,9 @@
 
 </picture>
 
-  <img align="center" margin="50" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesFaye&layout=pie&langs_count=8" />
+<div style="margin-bottom: 30px;"></div>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesFaye&layout=pie&langs_count=8" />
 
 
   [![Charles Faye's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bebouzo)](https://github.com/CharlesFaye/github-readme-stats)
