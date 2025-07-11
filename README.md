@@ -63,9 +63,9 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlesFaye" />
 
-</picture>
+</picture> </br>
+</br>
 
-<div style="margin-bottom: 30px;"></div>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesFaye&layout=pie&langs_count=8" />
 
