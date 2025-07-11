@@ -16,7 +16,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,androidstudio,git,github,vscode,npm,vite.js" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,java,androidstudio,git,github,vscode,npm,vite" alt="My Tech Stack" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?CharlesFaye=CharlesFaye&show_icons=true&theme=default" alt="Charles's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CharlesFaye&show_icons=true&theme=default" alt="Charles's GitHub Stats" />
 </p>
 
 
