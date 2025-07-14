@@ -69,7 +69,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesFaye&layout=pie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  [![Charles Faye's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bebouzo)](https://github.com/CharlesFaye/github-readme-stats)
+
 
 
 
