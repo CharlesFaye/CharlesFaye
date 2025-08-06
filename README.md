@@ -36,7 +36,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/charles-simel-faye-3382bb2aa/)  
 - 📧 charlesfaye99@gmail.com  
-- 🌍 Portfolio (https://charles-simel-faye.vercel.app/) 
+- 🌍 [Portfolio](https://charles-simel-faye.vercel.app/) 
 
 ---
 
